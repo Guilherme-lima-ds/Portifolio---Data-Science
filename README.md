@@ -11,4 +11,4 @@ Projeto de Web - Scraping: Nesse projeto eu realizei uma coisa ate que simples, 
 
 Automatizar a verificação de cnpj: Nesse projeto eu realizei um web-scraping do site do Simples Nacional http://www8.receita.fazenda.gov.br/SimplesNacional/Default.aspx, nele podemos analisar cnpjs para vermos se situação deles, para anlisando se e simples (ex. nao optante pelo simples nacional) e a situação deles no simei (ex. NÃO enquadrado no SIMEI
 ), pois tem umas diferenças no preço. Assim temos como objetivo, automatizar essa tafefa para que nao precisemos ficar manualmente, copiando cnpj, ai pega a informação, coloca no excel, ai de novo e de novo... isso acabou graças a essa automação.
-Solução: 
+Solução: https://github.com/NashGoldjr/Automatizar_Verificacao_CNPJ
