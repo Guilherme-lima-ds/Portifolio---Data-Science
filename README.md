@@ -6,7 +6,9 @@ O objetivo desse repositório e de guarda e centralizar os projetos de Data-Scie
 
 - Web-Scraping
 
-Projeto de Web - Scraping: Nesse projeto eu realizei uma coisa ate que simples, baixar uma panilha de algum site, porem a questão e que o site e cheio de frescuras, que fez o meu codigo ficar bem completo, usando assim diversos comandos do selenium e tento que importar novas coisas dele como o driver.wait por exemplo, por isso o deixo aqui disponivel para servir como exemplo para alguns e base para outros:  https://github.com/NashGoldjr/Web---Scraping---Caso-Complexo
+Projeto de Extração de dados de preços dos carros de São Francisco e Nova Iorque:
+O projeto foi realizado com o objetivo de responder algumas questões de negocio, como preço médio por carro, qual a quilometragem média de cada modelo, e assim por diante.
+Para responder essas perguntas, nos vamos ter que realizar uma consulta na api do site, na qual vamos realizar o scraping para conseguimos extrair a informação que vai alimentar um banco de dados no Postgres e logo em seguida alimentar meu painel no Power BI.
 
 
 Automatizar a verificação de cnpj: Nesse projeto eu realizei um web-scraping do site do Simples Nacional http://www8.receita.fazenda.gov.br/SimplesNacional/Default.aspx, nele podemos analisar cnpjs para vermos se situação deles, para anlisando se e simples (ex. nao optante pelo simples nacional) e a situação deles no simei (ex. NÃO enquadrado no SIMEI
