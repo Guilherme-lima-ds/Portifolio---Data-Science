@@ -15,3 +15,10 @@ Link: https://github.com/NashGoldjr/Projeto-TrueCar---Analisando-Precos-dos-Carr
 Automatizar a verificação de cnpj: Nesse projeto eu realizei um web-scraping do site do Simples Nacional http://www8.receita.fazenda.gov.br/SimplesNacional/Default.aspx, nele podemos analisar cnpjs para vermos se situação deles, para anlisando se e simples (ex. nao optante pelo simples nacional) e a situação deles no simei (ex. NÃO enquadrado no SIMEI
 ), pois tem umas diferenças no preço. Assim temos como objetivo, automatizar essa tafefa para que nao precisemos ficar manualmente, copiando cnpj, ai pega a informação, coloca no excel, ai de novo e de novo... isso acabou graças a essa automação.
 Solução: https://github.com/NashGoldjr/Automatizar_Verificacao_CNPJ
+
+
+- Analise de dados
+
+*Projeto de análise dos dados de uber de Nova york:*
+Nesse projeto eu vou realizar uma análise das corridas de uber de nova york, com o objetivo de responder perguntas de negócio fazendo diversas analises, como por exemplo análises de mapas, análises de hora com maior pico de corrida, o dia que mais tem corridas, e assim por diante.  Em posse dessas análises a área da tomada de decisão mais certeira, pois vai está baseada em Dados.
+Link do projeto:
