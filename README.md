@@ -21,4 +21,4 @@ Solução: https://github.com/NashGoldjr/Automatizar_Verificacao_CNPJ
 
 *Projeto de análise dos dados de uber de Nova york:*
 Nesse projeto eu vou realizar uma análise das corridas de uber de nova york, com o objetivo de responder perguntas de negócio fazendo diversas analises, como por exemplo análises de mapas, análises de hora com maior pico de corrida, o dia que mais tem corridas, e assim por diante.  Em posse dessas análises a área da tomada de decisão mais certeira, pois vai está baseada em Dados.
-Link do projeto:
+Link do projeto: https://github.com/NashGoldjr/Analisando-Dados-do-Uber
