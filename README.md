@@ -22,3 +22,8 @@ Solução: https://github.com/NashGoldjr/Automatizar_Verificacao_CNPJ
 *Projeto de análise dos dados de uber de Nova york:*
 Nesse projeto eu vou realizar uma análise das corridas de uber de nova york, com o objetivo de responder perguntas de negócio fazendo diversas analises, como por exemplo análises de mapas, análises de hora com maior pico de corrida, o dia que mais tem corridas, e assim por diante.  Em posse dessas análises a área da tomada de decisão mais certeira, pois vai está baseada em Dados.
 Link do projeto: https://github.com/NashGoldjr/Analisando-Dados-do-Uber
+
+
+*Projeto de análise dos dados da Covid-19*
+Nesse projeto eu realizei diversas analises sobre os dados da covid 19, atraves dessas analises vamos ter a informações de quais são os paises mais afetados pela covid, qual o pais com um maior numero de casos e outras diversas analises que atraves de graficos vamos poder analisar de forma simples e rapida.
+Link do Projeto: 
