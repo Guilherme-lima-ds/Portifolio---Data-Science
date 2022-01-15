@@ -26,4 +26,4 @@ Link do projeto: https://github.com/NashGoldjr/Analisando-Dados-do-Uber
 
 **Projeto de análise dos dados da Covid-19:**
 Nesse projeto eu realizei diversas analises sobre os dados da covid 19, atraves dessas analises vamos ter a informação de quais são os paises mais afetados pela covid, qual o pais com um maior numero de casos e outras diversas analises que atraves de graficos vamos poder analisar de forma simples e rapida.
-Link do Projeto: 
+Link do Projeto: https://github.com/NashGoldjr/Analisando_Dados_Covid/blob/main/Projeto_Analise_Covid.ipynb
