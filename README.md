@@ -31,5 +31,5 @@ Nesse projeto eu realizei diversas analises sobre os dados da covid 19, atraves 
 
 **Projeto de análise de dados da amazon**
 Nesse projeto eu vou realizar analises com os dados da amazon, com o objetivo de verificar com andam os feedback realizamos pelo seus clintes, as analises serão feitas a partir do texto que a pessoa escreveu, atraves dele nos vamos poder realizar analises de sentimento, analise de WordCloud(Nuvem de palavras) e verifica quais são os costumes dos meus clientes para fortalecer a key words da equipe de SO por exemplo.
-- Link do Projeto: 
+- Link do Projeto: https://github.com/NashGoldjr/Analisando_Dados_Amazon
 
