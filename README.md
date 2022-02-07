@@ -33,7 +33,7 @@ Nesse projeto eu realizei diversas analises sobre os dados da covid 19, atraves 
 Nesse projeto eu vou realizar analises com os dados da amazon, com o objetivo de verificar com andam os feedback realizamos pelo seus clintes, as analises serão feitas a partir do texto que a pessoa escreveu, atraves dele nos vamos poder realizar analises de sentimento, analise de WordCloud(Nuvem de palavras) e verifica quais são os costumes dos meus clientes para fortalecer a key words da equipe de SO por exemplo.
 - Link do Projeto: https://github.com/NashGoldjr/Analisando_Dados_Amazon
 
-**Projeto de análise dos dados da violencia no Rio de janeiro**
-Nesse projeto eu realizei uma analise geral dos dados dos rios de janeiro, embora seja algo simples, eu descidir colocar aqui pois o que deu mais trabalho nem foi fazer as analises com o dados, o maior trabalho foi a falta de dados, pois a maioria das colunas estavam vazias, por isso vou deixar esse trabalho aqui, pois pode ajudar alguem que esteja passando pleo problema de trabalhar com muitos dados ausentes e no notebook eu dou varias dicas de como lidar e de como substituir valores pela mediana por exemplo.
+**Projeto de análise dos dados da Violência  no Rio de janeiro**
+Nesse projeto eu realizei uma analise geral dos dados dos Rio de Janeiro, embora seja algo simples, eu descidir colocar aqui pois o que deu mais trabalho nem foi fazer as analises com o dados, o maior trabalho foi a falta de dados, pois a maioria das colunas estavam vazias, por isso vou deixar esse trabalho aqui, pois pode ajudar alguem que esteja passando pleo problema de trabalhar com muitos dados ausentes e no notebook eu dou varias dicas de como lidar e de como substituir valores pela mediana por exemplo.
 - Link do Projeto:
 
