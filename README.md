@@ -35,5 +35,5 @@ Nesse projeto eu vou realizar analises com os dados da amazon, com o objetivo de
 
 **Projeto de análise dos dados da Violência  no Rio de janeiro**
 Nesse projeto eu realizei uma analise geral dos dados dos Rio de Janeiro, embora seja algo simples, eu descidir colocar aqui pois o que deu mais trabalho nem foi fazer as analises com o dados, o maior trabalho foi a falta de dados, pois a maioria das colunas estavam vazias, por isso vou deixar esse trabalho aqui, pois pode ajudar alguem que esteja passando pleo problema de trabalhar com muitos dados ausentes e no notebook eu dou varias dicas de como lidar e de como substituir valores pela mediana por exemplo.
-- Link do Projeto:
+- Link do Projeto:https://github.com/NashGoldjr/Analisando_Dados_Rio_de_Janeiro
 
