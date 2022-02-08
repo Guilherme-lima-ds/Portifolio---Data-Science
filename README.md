@@ -41,5 +41,5 @@ Nesse projeto eu realizei uma analise geral dos dados dos Rio de Janeiro, embora
 - **Data Science**
 
 **Previsão de doenças cardiovasculares**
-Nesse projeto eu realizei um modelo de previsão de doenças cardiovasculares, com o objetivo de treinar meus conhecimentos de Data-Scisce e ajudar a comunidade médica por exemplo, alguem que encontre o projeto e tenha alguma ideia de como fazer com os dados dele, Todos os dados estão disponiveis no notebook, tanto quanto links, dicionario e como interpretar as avalição dos modelos de classificação, tudo bem explicado e comentado.
+Nesse projeto eu realizei um modelo de previsão de doenças cardiovasculares, com o objetivo de treinar meus conhecimentos de Data-Scisce e ajudar a comunidade médica por exemplo, alguem que encontre o projeto e assim tenha alguma ideia de como fazer mesmo com os dados dele, Todos os dados estão disponiveis no notebook, tanto quanto links, dicionario e como interpretar as avaliações dos modelos de classificação, tudo bem explicado e comentado.
 - Link do Projeto: https://github.com/NashGoldjr/Previsao_De_Doencas_Cardiovasculares
