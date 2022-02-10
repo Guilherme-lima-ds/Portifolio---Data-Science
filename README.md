@@ -43,3 +43,8 @@ Nesse projeto eu realizei uma analise geral dos dados dos Rio de Janeiro, embora
 **Previsão de doenças cardiovasculares**
 Nesse projeto eu realizei um modelo de previsão de doenças cardiovasculares, com o objetivo de treinar meus conhecimentos de Data-Scisce e ajudar a comunidade médica por exemplo, alguem que encontre o projeto e assim tenha alguma ideia de como fazer mesmo com os dados dele, Todos os dados estão disponiveis no notebook, tanto quanto links, dicionario e como interpretar as avaliações dos modelos de classificação, tudo bem explicado e comentado.
 - Link do Projeto: https://github.com/NashGoldjr/Previsao_De_Doencas_Cardiovasculares
+
+
+**Detecção de fraudes no cartão de crédito**
+Nesse projeto eu trabalhei com dados desbalanceados, ou seja, a grande parte dos meus dados era de valores que não sofreram fraudes, sendo mais especifico apenas 0.017% era uma fruade nesse projeto, isso dentro de mais de 200 mil linhas, então eu tive que tratar esses dados, e depois aplicar modelos de classificação que mesmo com dados tão desbalaceados conseguisse prever, se aquela tranação foi feita pela pessoa dona do cartão ou não, um spoiler e que conseguimos criar um modelo com 0.97% de acúracidade.
+- Link do Projeto:
