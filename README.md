@@ -47,4 +47,4 @@ Nesse projeto eu realizei um modelo de previsão de doenças cardiovasculares, c
 
 **Detecção de fraudes no cartão de crédito**
 Nesse projeto eu trabalhei com dados desbalanceados, ou seja, a grande parte dos meus dados era de valores que não sofreram fraudes, sendo mais especifico apenas 0.017% era uma fruade nesse projeto, isso dentro de mais de 200 mil linhas, então eu tive que tratar esses dados, e depois aplicar modelos de classificação que mesmo com dados tão desbalaceados conseguisse prever, se aquela tranação foi feita pela pessoa dona do cartão ou não, um spoiler e que conseguimos criar um modelo com 0.97% de acúracidade.
-- Link do Projeto:
+- Link do Projeto: https://github.com/NashGoldjr/Detectar_Fraudes-_No_Cartao_de_Credito
