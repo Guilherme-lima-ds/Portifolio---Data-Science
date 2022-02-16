@@ -51,4 +51,4 @@ Nesse projeto eu trabalhei com dados desbalanceados, ou seja, a grande parte dos
 
 **Verificação de Fake News**
 Nesse projeto completo de ponta a ponta, desde de a extração de dados até o desenvolvimento de um Webapp, eu criei um modelo que consegue prever com quase 95% de acúracidade se uma noticia é Verdadeira ou Fake News, para realizar esse projeto eu tive que usar as melhores praticas de Linguagem Natural para tratar os texto, visando qualquer tipo de texto que a aplicação ira receber, então a limpeza foi completa, link do Webapp na etapa de Deploy do projeto no notebook.
-- Link do Projeto: https://github.com/NashGoldjr/Dectecar_Fake_News
+- Link do Projeto: https://github.com/NashGoldjr/Verificar_Fake_News
