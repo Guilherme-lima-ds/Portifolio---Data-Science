@@ -9,12 +9,12 @@ O objetivo desse repositório e de guarda e centralizar os projetos de Data-Scie
 **Projeto de Extração de dados de preços dos carros de São Francisco e Nova Iorque:**
 O projeto foi realizado com o objetivo de responder algumas questões de negocio, como preço médio por carro, qual a quilometragem média de cada modelo, e assim por diante.
 Para responder essas perguntas, nos vamos ter que realizar uma consulta na api do site, na qual vamos realizar o scraping para conseguimos extrair a informação que vai alimentar um banco de dados no Postgres e logo em seguida alimentar um painel no Power BI.
-- Link: https://github.com/NashGoldjr/Projeto-TrueCar---Analisando-Precos-dos-Carros
+- Link do projeto: https://github.com/NashGoldjr/Projeto-TrueCar---Analisando-Precos-dos-Carros
 
 
 **Automatizar a verificação de cnpj:** Nesse projeto eu realizei um web-scraping do site do Simples Nacional http://www8.receita.fazenda.gov.br/SimplesNacional/Default.aspx, nele podemos analisar cnpjs para vermos se situação deles, para anlisando se e simples (ex. nao optante pelo simples nacional) e a situação deles no simei (ex. NÃO enquadrado no SIMEI
 ), pois tem umas diferenças no preço. Assim temos como objetivo, automatizar essa tafefa para que nao precisemos ficar manualmente, copiando cnpj, ai pega a informação, coloca no excel, ai de novo e de novo... isso acabou graças a essa automação.
-- Solução: https://github.com/NashGoldjr/Automatizar_Verificacao_CNPJ
+- Link do projeto: https://github.com/NashGoldjr/Automatizar_Verificacao_CNPJ
 
 
 - **Análise de dados**
@@ -35,7 +35,7 @@ Nesse projeto eu vou realizar analises com os dados da amazon, com o objetivo de
 
 **Projeto de análise dos dados da Violência  no Rio de janeiro**
 Nesse projeto eu realizei uma analise geral dos dados dos Rio de Janeiro, embora seja algo simples, eu descidir colocar aqui pois o que deu mais trabalho nem foi fazer as analises com o dados, o maior trabalho foi a falta de dados, pois a maioria das colunas estavam vazias, por isso vou deixar esse trabalho aqui, pois pode ajudar alguem que esteja passando pleo problema de trabalhar com muitos dados ausentes e no notebook eu dou varias dicas de como lidar e de como substituir valores pela mediana por exemplo.
-- Link do Projeto:https://github.com/NashGoldjr/Analisando_Dados_Rio_de_Janeiro
+- Link do Projeto: https://github.com/NashGoldjr/Analisando_Dados_Rio_de_Janeiro
 
 
 - **Data Science**
@@ -48,3 +48,7 @@ Nesse projeto eu realizei um modelo de previsão de doenças cardiovasculares, c
 **Detecção de fraudes no cartão de crédito**
 Nesse projeto eu trabalhei com dados desbalanceados, ou seja, a grande parte dos meus dados era de valores que não sofreram fraudes, sendo mais especifico apenas 0.017% era uma fruade nesse projeto, isso dentro de mais de 200 mil linhas, então eu tive que tratar esses dados, e depois aplicar modelos de classificação que mesmo com dados tão desbalaceados conseguisse prever, se aquela tranação foi feita pela pessoa dona do cartão ou não, um spoiler e que conseguimos criar um modelo com 0.97% de acúracidade.
 - Link do Projeto: https://github.com/NashGoldjr/Detectar_Fraudes-_No_Cartao_de_Credito
+
+**Verificação de Fake News**
+Nesse projeto completo de ponta a ponta, desde de a extração de dados até o desenvolvimento de um Webapp, eu criei um modelo que consegue prever com quase 95% de acúracidade se uma noticia é Verdadeira ou Fake News, para realizar esse projeto eu tive que usar as melhores praticas de Linguagem Natural para tratar os texto, visando qualquer tipo de texto que a aplicação ira receber, então a limpeza foi completa, link do Webapp na etapa de Deploy do projeto no notebook.
+- Link do Projeto: https://github.com/NashGoldjr/Dectecar_Fake_News
