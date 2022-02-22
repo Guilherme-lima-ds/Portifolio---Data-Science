@@ -52,3 +52,7 @@ Nesse projeto eu trabalhei com dados desbalanceados, ou seja, a grande parte dos
 **Verificação de Fake News**
 Nesse projeto completo de ponta a ponta, desde de a extração de dados até o desenvolvimento de um Webapp, eu criei um modelo que consegue prever com quase 95% de acúracidade se uma noticia é Verdadeira ou Fake News, para realizar esse projeto eu tive que usar as melhores praticas de Linguagem Natural para tratar os texto, visando qualquer tipo de texto que a aplicação ira receber, então a limpeza foi completa, link do Webapp na etapa de Deploy do projeto no notebook.
 - Link do Projeto: https://github.com/NashGoldjr/Verificar_Fake_News
+
+**Estimador de gordura corporal**
+Nesse projeto eu criei um modelo capaz de prever(dadas certas informações passadas) a taxa de gordura corporal em uma pessoa, para criar esse modelo foi necessario e uma seleção de caracteristicas, pois o objetivo principal era criar um WebApp simples que com no maximo 5 informação a pessoa já tivesse uma ideia de como anda a saúde dela, para fazer essa escolha de colunas eu utilizei 3 metodos, sendo um eles um de Machine learning só para descobrir qual coluna ele considerava mais relevantes, ou seja, e um projeto completo de ponta a ponta.
+- Link do Projeto: https://github.com/Guilherme-Lima-ofical/Estimador_de_Gordura_Corporal
