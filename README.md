@@ -22,7 +22,7 @@ Nesse projeto eu vou realizar analises com os dados da amazon, com o objetivo de
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- **Data Science**
+- ##**Projeto de Data Science**
 
 **Previsão de doenças cardiovasculares**
 Nesse projeto eu realizei um modelo de previsão de doenças cardiovasculares, com o objetivo de treinar meus conhecimentos de Data-Scisce e ajudar a comunidade médica por exemplo, alguem que encontre o projeto e assim tenha alguma ideia de como fazer mesmo com os dados dele, Todos os dados estão disponiveis no notebook, tanto quanto links, dicionario e como interpretar as avaliações dos modelos de classificação, tudo bem explicado e comentado.
