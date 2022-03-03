@@ -40,3 +40,8 @@ Nesse projeto completo de ponta a ponta, desde de a extração de dados até o d
 **Estimador de gordura corporal**
 Nesse projeto eu criei um modelo capaz de prever(dadas certas informações passadas) a taxa de gordura corporal em uma pessoa, para criar esse modelo foi necessario e uma seleção de caracteristicas, pois o objetivo principal era criar um WebApp simples que com no maximo 5 informação a pessoa já tivesse uma ideia de como anda a saúde dela, para fazer essa escolha de colunas eu utilizei 3 metodos, sendo um eles um de Machine learning só para descobrir qual coluna ele considerava mais relevantes, ou seja, e um projeto completo de ponta a ponta.
 - Link do Projeto: https://github.com/Guilherme-Lima-ofical/Estimador_de_Gordura_Corporal
+
+
+**Projeto desafio Keggle Previsão do Preço de Tratores**
+Nesse projeto eu resolvi um desafio muito legal do keggle, o contexto do desafio era que uma empresa pagaria para os 3 melhores modelos criados, o valor total do pagamento seria 10 mil dolares, mais informações vão está disponibilizadas no notebook, infelizmente essa competição ocorreu a 9 anos atrás, porém eu gostei da ideia e fui dar uma olhada no projeto e me deparei com valores extramamentes vazios e muitas colunas, e percebi que realmente não era algo trivial, por essa razão eu resolvi resolver esse problema, inclusive tem até uma surpresa no notebook.(Spoiler eu fiz o projeto de duas formas diferentes.)
+- Link do Projeto: 
