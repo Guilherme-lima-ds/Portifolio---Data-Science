@@ -44,4 +44,4 @@ Nesse projeto eu criei um modelo capaz de prever(dadas certas informações pass
 
 **Projeto desafio Keggle Previsão do Preço de Tratores**
 Nesse projeto eu resolvi um desafio muito legal do keggle, o contexto do desafio era que uma empresa pagaria para os 3 melhores modelos criados, o valor total do pagamento seria 10 mil dolares, mais informações vão está disponibilizadas no notebook, infelizmente essa competição ocorreu a 9 anos atrás, porém eu gostei da ideia e fui dar uma olhada no projeto e me deparei com valores extramamentes vazios e muitas colunas, e percebi que realmente não era algo trivial, por essa razão eu resolvi resolver esse problema, inclusive tem até uma surpresa no notebook.(Spoiler eu fiz o projeto de duas formas diferentes.)
-- Link do Projeto: 
+- Link do Projeto: https://github.com/Guilherme-Lima-ofical/Projeto_desafio_Keggle_Previsao_do_Valor_de-Tratores
