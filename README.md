@@ -24,6 +24,13 @@ Nesse projeto eu vou realizar analises com os dados da amazon, com o objetivo de
 
 - ## **Projeto de Data Science**
 
+
+**Previsão dos melhores preços para imóveis espécificados**
+Nesse projeto eu fiz um modelo que conseguisse ter uma boa perfomance na hora de precificar o preço de imóveis especificados, nele eu fiz questão de colocar o quanto a empresa iria ganhar ou perder caso seguisse as indicações do modelo, e um projeto completo de ponta a ponta onde eu vou da questão de negocio até colocar o modelo em produção, passando por validação de hipoteses, validação cruzada entre outras coisas. 
+
+- Link do Projeto: https://github.com/Guilherme-lima-ds/Project_House_Predict_Price
+
+
 **Previsão de doenças cardiovasculares**
 Nesse projeto eu realizei um modelo de previsão de doenças cardiovasculares, com o objetivo de treinar meus conhecimentos de Data-Scisce e ajudar a comunidade médica por exemplo, alguem que encontre o projeto e assim tenha alguma ideia de como fazer mesmo com os dados dele, Todos os dados estão disponiveis no notebook, tanto quanto links, dicionario e como interpretar as avaliações dos modelos de classificação, tudo bem explicado e comentado.
 - Link do Projeto: https://github.com/NashGoldjr/Previsao_De_Doencas_Cardiovasculares
