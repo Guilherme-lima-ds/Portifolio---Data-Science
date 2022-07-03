@@ -31,6 +31,11 @@ Nesse projeto eu fiz um modelo que conseguisse ter uma boa perfomance na hora de
 - Link do Projeto: https://github.com/Guilherme-lima-ds/Project_House_Predict_Price
 
 
+
+**Verificação de Risco de Inadimplencia em Desenvolvimento**
+Nesse projeto o objetivo era indentificar se o cliente iria ser inadimplente ou não, para responder essa pergunta uma base com os dados gerais do cliente foi passada junto com a informação se ele era inadimplenete ou não, esse projeto veio do banco Nubank, eles fizeram isso como forma de processo seletivo e quem tivesse o melhor resultado era contratato(mais ou menos assim), para resolver isso eu tive que passar por varios processos de limpeza de dados, balanceamento e muito mais, foi um belo aprendizado e no fim eu fiz um WebApp simples para tirar o modelo de ML do meu ambiente local, todas as informações e considerações estão nos arquivos notebook abaixo, neles também contem minhas premissas e conclusões a cada fim de ciclo.
+- Link do Projeto: https://github.com/Guilherme-lima-ds/Nubank-Risk-assessment
+
 **Previsão de doenças cardiovasculares**
 Nesse projeto eu realizei um modelo de previsão de doenças cardiovasculares, com o objetivo de treinar meus conhecimentos de Data-Scisce e ajudar a comunidade médica por exemplo, alguem que encontre o projeto e assim tenha alguma ideia de como fazer mesmo com os dados dele, Todos os dados estão disponiveis no notebook, tanto quanto links, dicionario e como interpretar as avaliações dos modelos de classificação, tudo bem explicado e comentado.
 - Link do Projeto: https://github.com/NashGoldjr/Previsao_De_Doencas_Cardiovasculares
