@@ -33,7 +33,7 @@ Nesse projeto eu fiz um modelo que conseguisse ter uma boa perfomance na hora de
 
 
 
-**Verificação de Risco de Inadimplencia em Desenvolvimento:**
+**Verificação de Risco de Inadimplencia:**
 
 Nesse projeto o objetivo era indentificar se o cliente iria ser inadimplente ou não, para responder essa pergunta uma base com os dados gerais do cliente foi passada junto com a informação se ele era inadimplenete ou não, esse projeto veio do banco Nubank, eles fizeram isso como forma de processo seletivo e quem tivesse o melhor resultado era contratato(mais ou menos assim), para resolver isso eu tive que passar por varios processos de limpeza de dados, balanceamento e muito mais, foi um belo aprendizado e no fim eu fiz um WebApp simples para tirar o modelo de ML do meu ambiente local, todas as informações e considerações estão nos arquivos notebook abaixo, neles também contem minhas premissas e conclusões a cada fim de ciclo.
 - Link do Projeto: https://github.com/Guilherme-lima-ds/Nubank-Risk-assessment
