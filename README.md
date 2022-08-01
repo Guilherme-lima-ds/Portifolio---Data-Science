@@ -3,7 +3,7 @@ O objetivo desse repositório e de guarda e centralizar os projetos de Data-Scie
 
 
 
-- ## **Projeto de Data Science**
+- ## **Projetos de Data Science**
 
 
 **Previsão dos melhores preços para imóveis espécificados:**
