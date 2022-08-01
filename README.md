@@ -1,26 +1,7 @@
-# Portfolio  - Data-Science e Data analytics
-O objetivo desse repositório e de guarda e centralizar os projetos de Data-Science e Analise de dados feitos por mim, no intuito de demostrar valor ajudando a comunidade através do compartilhamento de conhecimento.
+# Portfolio  - Data-Science
+O objetivo desse repositório e de guarda e centralizar os projetos de Data-Science feitos por mim, no intuito de demostrar valor ajudando a comunidade através do compartilhamento de conhecimento.
 
 
-# Projetos
-
-## **Projeto de Análise de dados**
-
-**Projeto de análise dos dados de uber de Nova york:**
-Nesse projeto eu vou realizar uma análise das corridas de uber de nova york, com o objetivo de responder perguntas de negócio fazendo diversas analises, como por exemplo análises de mapas, análises de hora com maior pico de corrida, o dia que mais tem corridas, e assim por diante.  Em posse dessas análises a área da tomada de decisão mais certeira, pois vai está baseada em Dados.
-- Link do projeto: https://github.com/NashGoldjr/Analisando-Dados-do-Uber
-
-
-**Projeto de análise dos dados da Covid-19:**
-Nesse projeto eu realizei diversas analises sobre os dados da covid 19, atraves dessas analises vamos ter a informação de quais são os paises mais afetados pela covid, qual o pais com um maior numero de casos e outras diversas analises que atraves de graficos vamos poder analisar de forma simples e rapida.
-- Link do Projeto: https://github.com/NashGoldjr/Analisando_Dados_Covid/blob/main/Projeto_Analise_Covid.ipynb
-
-
-**Projeto de análise de dados da amazon:**
-Nesse projeto eu vou realizar analises com os dados da amazon, com o objetivo de verificar com andam os feedback realizamos pelo seus clintes, as analises serão feitas a partir do texto que a pessoa escreveu, atraves dele nos vamos poder realizar analises de sentimento, analise de WordCloud(Nuvem de palavras) e verifica quais são os costumes dos meus clientes para fortalecer a key words da equipe de SO por exemplo.
-- Link do Projeto: https://github.com/NashGoldjr/Analisando_Dados_Amazon
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - ## **Projeto de Data Science**
 
@@ -37,6 +18,12 @@ Nesse projeto eu fiz um modelo que conseguisse ter uma boa perfomance na hora de
 
 Nesse projeto o objetivo era indentificar se o cliente iria ser inadimplente ou não, para responder essa pergunta uma base com os dados gerais do cliente foi passada junto com a informação se ele era inadimplenete ou não, esse projeto veio do banco Nubank, eles fizeram isso como forma de processo seletivo e quem tivesse o melhor resultado era contratato(mais ou menos assim), para resolver isso eu tive que passar por varios processos de limpeza de dados, balanceamento e muito mais, foi um belo aprendizado e no fim eu fiz um WebApp simples para tirar o modelo de ML do meu ambiente local, todas as informações e considerações estão nos arquivos notebook abaixo, neles também contem minhas premissas e conclusões a cada fim de ciclo.
 - Link do Projeto: https://github.com/Guilherme-lima-ds/Nubank-Risk-assessment
+
+
+**Telecom Customer Churn: Prevendo se o cliente será churn ou não(Em desenvolvimento)
+
+- Link do Projeto: https://github.com/Guilherme-lima-ds/Telecom_Customer_Churn
+
 
 **Previsão de doenças cardiovasculares**
 Nesse projeto eu realizei um modelo de previsão de doenças cardiovasculares, com o objetivo de treinar meus conhecimentos de Data-Scisce e ajudar a comunidade médica por exemplo, alguem que encontre o projeto e assim tenha alguma ideia de como fazer mesmo com os dados dele, Todos os dados estão disponiveis no notebook, tanto quanto links, dicionario e como interpretar as avaliações dos modelos de classificação, tudo bem explicado e comentado.
