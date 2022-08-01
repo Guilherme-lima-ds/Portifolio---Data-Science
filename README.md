@@ -20,7 +20,7 @@ Nesse projeto o objetivo era indentificar se o cliente iria ser inadimplente ou 
 - Link do Projeto: https://github.com/Guilherme-lima-ds/Nubank-Risk-assessment
 
 
-**Telecom Customer Churn: Prevendo se o cliente será churn ou não(Em desenvolvimento)
+**Telecom Customer Churn: Prevendo se o cliente será churn ou não(Em desenvolvimento)**
 
 - Link do Projeto: https://github.com/Guilherme-lima-ds/Telecom_Customer_Churn
 
