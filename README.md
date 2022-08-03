@@ -22,7 +22,7 @@ Nesse projeto o objetivo era indentificar se o cliente iria ser inadimplente ou 
 
 **Telecom Customer Churn: Prevendo se o cliente será churn**
 
-Nesse projeto o objetivo era prever se o cliente iria ser churn ou não, para resolver isso eu passei por várias etapas de limpeza e transformações dados, clicando no link abaixo você terá acesso aos arquivos do projeto e também a uma explicação mais detalhada do projeto, como, por exemplo: contexto, performance do modelo, resultados financeiros, etc.
+Nesse projeto o objetivo era prever se o cliente iria ser churn ou não, para resolver isso eu passei por várias etapas de limpeza e transformações dados, clicando no link abaixo você terá acesso aos arquivos do projeto e também a uma explicação mais detalhada do projeto, por exemplo: contexto, performance do modelo, resultados financeiros, etc.
 
 - Link do Projeto: https://github.com/Guilherme-lima-ds/Telecom_Customer_Churn
 
