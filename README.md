@@ -6,7 +6,7 @@ O objetivo desse repositório e de guarda e centralizar os projetos de Data-Scie
 - ## **Projetos de Data Science**
 
 
-**Previsão dos melhores preços para imóveis espécificados:**
+**Previsão dos melhores preços para imóveis:**
 
 Nesse projeto eu fiz um modelo que conseguisse ter uma boa perfomance na hora de precificar o preço de imóveis especificados, nele eu fiz questão de colocar o quanto a empresa iria ganhar ou perder caso seguisse as indicações do modelo, e um projeto completo de ponta a ponta onde eu vou da questão de negocio até colocar o modelo em produção, passando por validação de hipoteses, validação cruzada entre outras coisas. 
 
@@ -20,7 +20,9 @@ Nesse projeto o objetivo era indentificar se o cliente iria ser inadimplente ou 
 - Link do Projeto: https://github.com/Guilherme-lima-ds/Nubank-Risk-assessment
 
 
-**Telecom Customer Churn: Prevendo se o cliente será churn ou não(Em desenvolvimento)**
+**Telecom Customer Churn: Prevendo se o cliente será churn*
+
+Nesse projeto o objetivo era prever se o cliente iria ser churn ou não, para resolver isso eu passei por várias etapas de limpeza e transformações dados, clicando no link abaixo você terá acesso aos arquivos do projeto e também a uma explicação mais detalhada do projeto, como, por exemplo: contexto, performance do modelo, resultados financeiros, etc.
 
 - Link do Projeto: https://github.com/Guilherme-lima-ds/Telecom_Customer_Churn
 
