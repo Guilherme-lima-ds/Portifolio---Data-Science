@@ -27,6 +27,14 @@ Nesse projeto o objetivo era prever se o cliente iria ser churn ou não, para re
 - Link do Projeto: https://github.com/Guilherme-lima-ds/Telecom_Customer_Churn
 
 
+**Customer Churn: Refazendo projetos antigos**
+Esse e o primeiro de uma série de vários projetos meus antigos que eu vou refazer, pois na época eu não tinha os conhecimentos adequados para resolver um problema assim, então para que eu pudesse ter um antes e depois e disponibilizar esse avanço para você que está lendo isso agora, por exemplo, eu resolvi criar todos os projetos que uma vez eu já tinha feito novamente, espero que veja o primeiro projeto que fiz e depois esse para comparar e veja se melhorei ou não.
+
+Esse e um projeto completo que vai desde a criação do objetivo até a criação da classe que aplica todo o projeto nos dados de produção, validei muitas hipóteses fazendo diversas análises para entender bem o problema que eu estava lidando, no arquivo READ ME dele está contido todas as informações do projeto em suma, claro que se quiser saber o porquê eu tomei certas decisões basta abrir os arquivos do projeto que também estão sendo disponibilizados.
+
+- Link do Projeto: https://github.com/Guilherme-lima-ds/Project_Customer_Churning_Prediction
+
+
 **Previsão de doenças cardiovasculares**
 Nesse projeto eu realizei um modelo de previsão de doenças cardiovasculares, com o objetivo de treinar meus conhecimentos de Data-Scisce e ajudar a comunidade médica por exemplo, alguem que encontre o projeto e assim tenha alguma ideia de como fazer mesmo com os dados dele, Todos os dados estão disponiveis no notebook, tanto quanto links, dicionario e como interpretar as avaliações dos modelos de classificação, tudo bem explicado e comentado.
 - Link do Projeto: https://github.com/NashGoldjr/Previsao_De_Doencas_Cardiovasculares
