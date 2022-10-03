@@ -35,6 +35,8 @@ Esse e um projeto completo que vai desde a criação do objetivo até a criaçã
 
 - Link do Projeto: https://github.com/Guilherme-lima-ds/Project_Customer_Churning_Prediction
 
+- Link do projeto V1: https://github.com/Guilherme-lima-ds/Customer_Churning_Prediction
+
 
 **Previsão de doenças cardiovasculares**
 Nesse projeto eu realizei um modelo de previsão de doenças cardiovasculares, com o objetivo de treinar meus conhecimentos de Data-Scisce e ajudar a comunidade médica por exemplo, alguem que encontre o projeto e assim tenha alguma ideia de como fazer mesmo com os dados dele, Todos os dados estão disponiveis no notebook, tanto quanto links, dicionario e como interpretar as avaliações dos modelos de classificação, tudo bem explicado e comentado.
